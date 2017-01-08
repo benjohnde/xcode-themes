@@ -1,8 +1,6 @@
 # xcode-themes
 
-Own collection for Xcode 8, utilizing [Fira Code](https://github.com/tonsky/FiraCode).
-
-I play a lot with different fonts.
+Own collection for Xcode 8, utilizing [Fira Code](https://github.com/tonsky/FiraCode). I play a lot with different fonts.
 
 ## Usage
 
